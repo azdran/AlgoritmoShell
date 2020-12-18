@@ -1,0 +1,60 @@
+C:\Users\asus\Desktop\New folder\Universidad\Programacion\Semestre 3\Algoritmo Shell\Algoritmo Shell\bin\Debug\Algoritmo Shell.exe.config
+C:\Users\asus\Desktop\New folder\Universidad\Programacion\Semestre 3\Algoritmo Shell\Algoritmo Shell\bin\Debug\Algoritmo Shell.exe
+C:\Users\asus\Desktop\New folder\Universidad\Programacion\Semestre 3\Algoritmo Shell\Algoritmo Shell\bin\Debug\Algoritmo Shell.pdb
+C:\Users\asus\Desktop\New folder\Universidad\Programacion\Semestre 3\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo Shell.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\New folder\Universidad\Programacion\Semestre 3\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo_Shell.Form1.resources
+C:\Users\asus\Desktop\New folder\Universidad\Programacion\Semestre 3\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo_Shell.Properties.Resources.resources
+C:\Users\asus\Desktop\New folder\Universidad\Programacion\Semestre 3\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo Shell.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\New folder\Universidad\Programacion\Semestre 3\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo Shell.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\New folder\Universidad\Programacion\Semestre 3\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo Shell.exe
+C:\Users\asus\Desktop\New folder\Universidad\Programacion\Semestre 3\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo Shell.pdb
+C:\Users\adria\OneDrive\Escritorio\PC\Universidad\Programacion\Semestre 3\Algoritmo Shell\Algoritmo Shell\bin\Debug\Algoritmo Shell.exe.config
+C:\Users\adria\OneDrive\Escritorio\PC\Universidad\Programacion\Semestre 3\Algoritmo Shell\Algoritmo Shell\bin\Debug\Algoritmo Shell.exe
+C:\Users\adria\OneDrive\Escritorio\PC\Universidad\Programacion\Semestre 3\Algoritmo Shell\Algoritmo Shell\bin\Debug\Algoritmo Shell.pdb
+C:\Users\adria\OneDrive\Escritorio\PC\Universidad\Programacion\Semestre 3\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo Shell.csprojAssemblyReference.cache
+C:\Users\adria\OneDrive\Escritorio\PC\Universidad\Programacion\Semestre 3\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo_Shell.Form1.resources
+C:\Users\adria\OneDrive\Escritorio\PC\Universidad\Programacion\Semestre 3\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo_Shell.Properties.Resources.resources
+C:\Users\adria\OneDrive\Escritorio\PC\Universidad\Programacion\Semestre 3\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo Shell.csproj.GenerateResource.cache
+C:\Users\adria\OneDrive\Escritorio\PC\Universidad\Programacion\Semestre 3\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo Shell.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Escritorio\PC\Universidad\Programacion\Semestre 3\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo Shell.exe
+C:\Users\adria\OneDrive\Escritorio\PC\Universidad\Programacion\Semestre 3\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo Shell.pdb
+E:\Algoritmo Shell\Algoritmo Shell\bin\Debug\Algoritmo Shell.exe.config
+E:\Algoritmo Shell\Algoritmo Shell\bin\Debug\Algoritmo Shell.exe
+E:\Algoritmo Shell\Algoritmo Shell\bin\Debug\Algoritmo Shell.pdb
+E:\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo Shell.csprojAssemblyReference.cache
+E:\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo_Shell.Form1.resources
+E:\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo_Shell.Properties.Resources.resources
+E:\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo Shell.csproj.GenerateResource.cache
+E:\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo Shell.csproj.CoreCompileInputs.cache
+E:\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo Shell.exe
+E:\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo Shell.pdb
+C:\Users\Milton\Desktop\trabajos\FINAL PROYECTO\Algoritmos de todos\Shell\Algoritmo Shell\Algoritmo Shell\bin\Debug\Algoritmo Shell.exe.config
+C:\Users\Milton\Desktop\trabajos\FINAL PROYECTO\Algoritmos de todos\Shell\Algoritmo Shell\Algoritmo Shell\bin\Debug\Algoritmo Shell.exe
+C:\Users\Milton\Desktop\trabajos\FINAL PROYECTO\Algoritmos de todos\Shell\Algoritmo Shell\Algoritmo Shell\bin\Debug\Algoritmo Shell.pdb
+C:\Users\Milton\Desktop\trabajos\FINAL PROYECTO\Algoritmos de todos\Shell\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo Shell.csprojAssemblyReference.cache
+C:\Users\Milton\Desktop\trabajos\FINAL PROYECTO\Algoritmos de todos\Shell\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo_Shell.Form1.resources
+C:\Users\Milton\Desktop\trabajos\FINAL PROYECTO\Algoritmos de todos\Shell\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo_Shell.Properties.Resources.resources
+C:\Users\Milton\Desktop\trabajos\FINAL PROYECTO\Algoritmos de todos\Shell\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo Shell.csproj.GenerateResource.cache
+C:\Users\Milton\Desktop\trabajos\FINAL PROYECTO\Algoritmos de todos\Shell\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo Shell.csproj.CoreCompileInputs.cache
+C:\Users\Milton\Desktop\trabajos\FINAL PROYECTO\Algoritmos de todos\Shell\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo Shell.exe
+C:\Users\Milton\Desktop\trabajos\FINAL PROYECTO\Algoritmos de todos\Shell\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo Shell.pdb
+C:\Users\aZdraN\Desktop\Algoritmo Shell\Algoritmo Shell\bin\Debug\Algoritmo Shell.exe.config
+C:\Users\aZdraN\Desktop\Algoritmo Shell\Algoritmo Shell\bin\Debug\Algoritmo Shell.exe
+C:\Users\aZdraN\Desktop\Algoritmo Shell\Algoritmo Shell\bin\Debug\Algoritmo Shell.pdb
+C:\Users\aZdraN\Desktop\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo Shell.csprojAssemblyReference.cache
+C:\Users\aZdraN\Desktop\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo_Shell.Form1.resources
+C:\Users\aZdraN\Desktop\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo_Shell.Properties.Resources.resources
+C:\Users\aZdraN\Desktop\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo Shell.csproj.GenerateResource.cache
+C:\Users\aZdraN\Desktop\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo Shell.csproj.CoreCompileInputs.cache
+C:\Users\aZdraN\Desktop\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo Shell.exe
+C:\Users\aZdraN\Desktop\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo Shell.pdb
+D:\tec monclova\documentos de C\Algoritmo Shell\Algoritmo Shell\bin\Debug\Algoritmo Shell.exe.config
+D:\tec monclova\documentos de C\Algoritmo Shell\Algoritmo Shell\bin\Debug\Algoritmo Shell.exe
+D:\tec monclova\documentos de C\Algoritmo Shell\Algoritmo Shell\bin\Debug\Algoritmo Shell.pdb
+D:\tec monclova\documentos de C\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo Shell.csprojAssemblyReference.cache
+D:\tec monclova\documentos de C\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo_Shell.Form1.resources
+D:\tec monclova\documentos de C\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo_Shell.Properties.Resources.resources
+D:\tec monclova\documentos de C\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo Shell.csproj.GenerateResource.cache
+D:\tec monclova\documentos de C\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo Shell.csproj.CoreCompileInputs.cache
+D:\tec monclova\documentos de C\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo Shell.exe
+D:\tec monclova\documentos de C\Algoritmo Shell\Algoritmo Shell\obj\Debug\Algoritmo Shell.pdb
